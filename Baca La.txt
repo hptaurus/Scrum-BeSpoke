@@ -4,3 +4,12 @@ William :
 Indatop :
 
 Download ICQ disini : http://www.icq.com/download/mobile/en
+
+Langkah krjanya kyk gini
+1. register di github.com
+2. Install source tree
+3. nnti wktu install source tree, gk ush install mercurial. gk ad pngruh
+4. siap tu, plh new/ clone (sblh kiri layar)
+5. isi url/path dengan ini : https://github.com/hptaurus/Scrum-BeSpoke
+6. klik clone
+7. trus klik yg ada tulisan master, lihat sdh ada branchnya belum. klo ada brrti clone dari repo hartono sdh sukses
