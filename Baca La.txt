@@ -13,3 +13,26 @@ Langkah krjanya kyk gini
 5. isi url/path dengan ini : https://github.com/hptaurus/Scrum-BeSpoke
 6. klik clone
 7. trus klik yg ada tulisan master, lihat sdh ada branchnya belum. klo ada brrti clone dari repo hartono sdh sukses
+
+klo dh siap, lnjt k bgian buat presentasi bespoke.
+1. lihat folder node js(tempat klian smpn node.js) misalnya saya simpan di lokal disk D:program files:node.js, trus buka cmd
+2. ketik d: 3. ktik cd program files
+4. ktik cd node.js
+5. ktik yo bespoke (pastikan yo ada di dalam folder node.js klian)
+5. ktik mkdir ICQ_121110502(nim ssuaikan)
+6. ktik cd ICQ_121110502
+7.grunt server
+8. msk k mozilla, ktik d situs localhost:8000, lihat sdh bisa jlaan gk bespoke klian. klo dh, lanjut lngkh brkt
+
+bgian edit presentasi
+1. masuk ke folder presentasi bespoke yang kalian simpan (mslnya d:program files:node.js:ICQ_121110502)
+2. di dalamnya ada file index.jade sama file main.styl(msk k folder styles) buka pke dreamweaver cs5, klo dh buka silahkan di diedit.
+3. klo sdh edit, d save.
+4. trus msuk cmd (Lihat folder ICQ_121110502 smpn d mn)
+5. misalnya d:program files:node.js:ICQ_121110502
+6. buka cmd, ketik d: 7. ketik cd prgm files
+8. ktik cd node.js
+9. ktik cd ICQ_121110502
+10. grunt server
+11. msk k mozilla klian, ktik d stusnya localhost:8000 (Lihat ada prbhn gk )
+12. klo sdh, brrti oke. kbrin w scptnya
