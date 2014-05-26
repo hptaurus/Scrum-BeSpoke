@@ -3,3 +3,17 @@ ICQ LLC is an instant messaging computer program that was first developed and po
 The first version of the program was released in November 1996 and ICQ became the first of the so-called "instant messaging" services, later patenting the technology.[1] IRC significantly predated ICQ but was never referred to as an "instant messenger" although all messages are instantly sent. The most significant difference was that ICQ was 1-on-1 chat only whereas IRC facilitates both individual and group chat. ICQ gained the ability to conduct group chat significantly later but its implementation is primitive compared to that of IRC, notably requiring a single user to create the group chat and invite others to join, as opposed to IRC wherein any user can choose to join a chat channel that is not designated as private. AOL acquired Mirabilis on June 8, 1998, for $287 million in cash up front and $120 million in additional payments over three years.[2]
 
 In 2001, ICQ had over 100 million accounts registered.[3] In April 2010, AOL sold ICQ to Digital Sky Technologies for $187.5 million.
+
+
+
+ICQ LLC adalah pesan instan program komputer yang pertama dikembangkan dan dipopulari oleh perusahaan Israel MIrabilis, yang mana telah diakui oleh Amerika Online(AOL), dan sejak April 2010 dimiliki oleh grup Mail.Ru.
+
+versi pertama dari program ini disebarkan pada November 1996 dan ICQ menjadi yang pertama yang dipanggil dengan nama jasa Pesan Instant, setelah itu mematenkan teknologi. IRC secara signifikan lebih dahulu ada dibandingkan dengan ICQ tapi tidak pernah di sebut sebagai "Pesan Instan" walau pun semua pesannya di kirim secara instan. perbedaan yang paling besar adalah ICQ adalah chat satu dengan satu saja, sedangkan IRC difasilitasi dengan perorangan dan chat grup. ICQ mendapatkan kemampuan untuk membuat grup chat beberapa waktu kemudian tapi implementasinya masih kuno jika dibandingkan dengan yang digunakan oleh IRC, juga harus membutuhkan satu orang pengguna untuk membuat grup chat dan mengundang yang lainnya , sangat berlawanan dengan IRC dimana pengguna bisa memilih untuk bergabung dengan saluran chat yang tidak di tandai dengan Pribadi. AOL mengakui MIrabilis pada 8 Juni 1998, dengan dana 287 juta dolar untuk dana utama dan 120 juta dolar sebagai pembayaran selanjutnya selama jangka waktu 3 tahun .
+
+pada tahun 2001, ICQ memiliki lebih dari 100 juta akun yang terregister. Pada April 2010, AOL menjual ICQ kepada Digital Sky Technologies dengan harga sebesar 187,5 juta dollar. 
+
+
+
+saya semalam install perlengkapan tugas
+hari ini saya cari definisi ICQ
+besok saya akan cari sejarah ICQ
