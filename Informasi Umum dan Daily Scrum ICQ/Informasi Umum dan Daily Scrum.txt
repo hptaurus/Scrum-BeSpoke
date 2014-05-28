@@ -9,7 +9,7 @@ Anggota 1:
 	Nama: Fausta Leonardo
 	NIM: 12.111.0502
 Anggota 2:
-	Nama: Hartono
+	Nama: Hartono Pratama
 	NIM: 12.111.0995
 Anggota 3:
 	Nama: William Chandra
