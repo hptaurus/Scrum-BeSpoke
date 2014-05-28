@@ -1,0 +1,104 @@
+=======================
+INFORMASI UMUM
+
+Nama kelompok: "I Seek You"
+Judul Topik: ICQ
+Alamat Github: https://github.com/hptaurus/Scrum-BeSpoke
+Alamat Trello: https://trello.com/b/PHS69wYV/icq
+Anggota 1:
+	Nama: Fausta Leonardo
+	NIM: 12.111.0502
+Anggota 2:
+	Nama: Hartono
+	NIM: 12.111.0995
+Anggota 3:
+	Nama: William Chandra
+	NIM: 12.111.1729
+Anggota 4:
+	Nama: Indatop 
+	NIM: 12.111.0499
+=======================
+
+
+SPRINT
+------
+Sprint 1: 
+26/5 - 28/5
+Scrummaster: Fausta Leonardo (12.111.0502)
+
+Sprint 2:
+29/5 - 31/5
+Scrummaster: Hartono (12.111.0995)
+
+Sprint 3: 
+02/6 - 04/6
+Scrummaster: William Chandra (12.111.1729)
+
+Sprint 4: 
+05/6 - 07/6
+Scrummaster: Indatop (12.111.0499)
+Progress Harian (Diupdate tiap hari)
+------------------------------------
+
+26/5 
+Daily Scrum
+(Fausta Leonardo):
+1. Hari ini saya mencari informasi tentang definisi ICQ. 
+2. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono):
+1. Hari ini saya mencari definisi ICQ.
+2. Saya memiliki kendala pada saat menjelaskan kepada anggota yang lain dengan menggunakan media chatting
+internet.
+
+(William Chandra):
+1. Hari ini saya mencari definisi dari ICQ.
+2. Saya memiliki kendala pada saat push yang dikarenakan internet yang kurang stabil.
+
+(Indatop):
+1. Hari ini saya mencari definisi ICQ.
+2. Saya tidak memiliki kendala dalam pengerjaan.
+
+27/5 
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya mencari informasi tentang defInisi ICQ.
+2. Hari ini saya mencari informasi tetnang sejarah ICQ.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono):
+1. Semalam saya mencari definisi ICQ.
+2. Hari ini saya mencari sejarah ICQ.
+3. Saya memilik kendala pada saat mencari sejarah dari ICQ karena di dalam websitenya sendiri juga tidak tertulis apapun tentang sejarahnya. 
+
+(William Chandra):
+1. Semalam saya mencari definisi dari ICQ.
+2. Hari ini saya mencari sejarah dari ICQ.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Indatop):
+1. Semalam saya mencari definisi ICQ.
+2. Hari ini saya mencari sejarah ICQ.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+28/5 
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya mencari informasi tentang sejarah ICQ.
+2. Hari ini saya mencari informasi tentang versi ICQ 3. dan perbedaannya.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono):
+1.
+2.
+3.
+
+(William Chandra):
+1.
+2.
+3.
+
+(Indatop):
+1. Semalam saya mencari sejarah ICQ
+2. Hari ini saya mencari versi ICQ beserta perbedaannya.
+3. Saya tidak memiliki kendala dalam pengerjaan.

@@ -1,0 +1,26 @@
+versi terakhir
+
+ICQ 99a/b client paling awal yang dikenalkan oleh banyak orang kepada dunia Pesan Instan
+
+ICQ 2000 Digabungkan dengan fitur Notes dan Reminder
+
+ICQ 2001 disertakan penyimpanan Server-side untuk list contak, mengizinkan 	untuk sinkronisasi untuk lebih dari satu komputer
+
+ICQ 2002 adalah versi terakhir yang memiliki iklan-gratis
+
+ICQ Pro 2003b adalah versi ICQ pertama yang menggunakan ICQ protokol versi 10. 	Namun ICQ 5 dan 5.1 menggunakan protokol versi 9. ICQ 2002 dan 2003a 	menggunakan Versi 8 dari ICQ protokol. Versi yang lalu (ICQ 2001b dan 	semua Client ICQ sebelumnya) menggunakan ICQ protokol versi 7
+
+ICQ 4 dan akhir ICQ 5 (keluarkan pada hari senin, february 7, 2005), adalah 	upgrade dari ICQ Lite. Satu penambahan adalah Xtraz, yang menawarkan 	game dan fitur yang ditujukan untuk menarik perhatian untuk pengguna 	internet yang lebih muda . ICQ Lite adalah ide original untuk menawari 	pengguna ringan dari pesan instan sebuah Client alternatif yang lebih 	kebil unduh dan juga lebih ringan untuk komputer yang masih lambat.
+
+ICQ 5 diperkenalkan dukungan tampilan. Ada beberapa tampilan resmi yang 	tersedia untuk versi ICQ 5.1 dalam website resmi mereka; namun, jumlah 	dari tampilan yang dibuat oleh pengguna telah dibuat tersedia untuk 	diunduh.
+
+ICQ 6 dikeluarkan pada bulan april 17, 2007, adalah update yang pertama sejak versi ICQ 4. Tampilannya telah didesign ulang menggunakan Boxely, teknik penerjeman yang sama yang di gunakan oleh AIM Triton. Perubahan ini menambah fitur baru seperti kemampuan untuk mengirim kepada IM secara langsung dari daftar Client kontak. Siapa pun yang tidak upgrade akan menemukan versi lama ICQ lama mereka tidak bisa di buka. Walau pun upgrade ke versi 6 terlihat seperti hal yang positif, beberapa pengguna mungkin menemukan fitur yang berguna seperti mengirim beberapa file secara bersamaaan dan tidak lagi didukung di versi yang baru. Pada awalnya pada bulan juli 2008, upgrade jaringan memaksa pengguna untuk berhenti menggunakan 5.1 - aplikasi yang mengidentifikasi dirinya sendiri sebagai ICQ 5, seperti Pidgin, akan di paksa untuk identifikasi dirinya sendiri sebagai ICQ 6. Terlihat seperti untuk pengguna selain menggunakan program Pesan Instan yang berbeda atau patching ICQ 5.1 dengan aplikasi yang special.
+
+ICQ 7.0 , dikeluarkan pada bulan januari 18, 2010. Update ini disertakan penggabungan dengan Facebook dan juga website yang lainnya. Ini juga mengizinkan status personal khusus yang hampir mirip dengan Windows Live Messenger(MSN Messenger). ICQ 7.0 tidak mendukung bahasa China Tradisional dalam pemasangan standar atau dengan tambahan paket bahasa resmi. Ini telah membuat sulit adaptasi dengan pengguna yang berasal dari Hong Kong dan Taiwan dimana bahasa China Tradisional adalah bahasa resmi.
+
+ICQ 8 , dikeluarkan pada bulan february 5, 2012 - "Temui generasi baru dari ICQ. Nikmati Panggilan video gratis, pesan dan SMS, dukungan jaringan sosial dan banyak lagi"
+
+
+1. semalam saya buat sejarah ICQ
+2. hari ini saya buat versi-versi ICQ
+3. translate dari bahasa inggris kemungkinan besar tidak begitu bisa di mengerti
