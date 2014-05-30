@@ -129,7 +129,7 @@ Daily Scrum
 Daily Scrum
 (Fausta Leonardo):
 1. Semalam saya menambahkan fitur Multi-Instance Login.
-2. Hari ini saya menambahkan fitur .
+2. Hari ini saya menambahkan fitur emoticons.
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono):
