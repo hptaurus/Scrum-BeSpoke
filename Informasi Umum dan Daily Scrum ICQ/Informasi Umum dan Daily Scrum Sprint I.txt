@@ -85,13 +85,13 @@ Daily Scrum
 Daily Scrum
 (Fausta Leonardo):
 1. Semalam saya mencari informasi tentang sejarah ICQ.
-2. Hari ini saya mencari informasi tentang versi ICQ 3. dan perbedaannya.
+2. Hari ini saya mencari informasi tentang versi ICQ dan perbedaannya.
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono):
-1.
-2.
-3.
+1. Semalam saya membuat sejarah ICQ.
+2. Hari ini saya membuat versi-versi ICQ.
+3. Saya memilik kendala saat translate dari bahasa inggris dan kemungkinan besar tidak begitu bisa di mengerti.
 
 (William Chandra):
 1.Semalam saya mencari informasi tentang sejarah ICQ
@@ -102,3 +102,47 @@ Daily Scrum
 1. Semalam saya mencari sejarah ICQ
 2. Hari ini saya mencari versi ICQ beserta perbedaannya.
 3. Saya tidak memiliki kendala dalam pengerjaan.
+
+29/5
+Daily Scrum
+(Fausta Leonardo):
+1.Semalam saya mencari informasi tentang versi ICQ dan perbedaannya.
+2. Hari ini saya menambahkan fitur Multi-Instance Login.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono):
+1. 
+2.
+3.
+
+(William Chandra):
+1.Semalam saya mencari informasi tentang versi-versi ICQ beserta perbedaannya
+2.Hari ini saya mencari fitur ICQ berupa free video call,free voice call,call any phone numbers,quick login
+3.Saya tidak memiliki kendala dalam pengerjaan.
+
+(Indatop):
+1. 
+2.
+3. 
+
+30/5
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya menambahkan fitur Multi-Instance Login.
+2. Hari ini saya menambahkan fitur emoticons.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono):
+1. 
+2.
+3.
+
+(William Chandra):
+1.
+2.
+3.
+
+(Indatop):
+1. 
+2.
+3. 
