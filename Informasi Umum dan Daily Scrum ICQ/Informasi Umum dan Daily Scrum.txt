@@ -145,4 +145,26 @@ Daily Scrum
 (Indatop):
 1. 
 2.
-3. 
+3.
+
+31/5
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya menambahkan fitur emoticons.
+2. Hari ini saya menambahkan fitur themes.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono):
+1. 
+2.
+3.
+
+(William Chandra):
+1.
+2.
+3.
+
+(Indatop):
+1. 
+2.
+3.  
