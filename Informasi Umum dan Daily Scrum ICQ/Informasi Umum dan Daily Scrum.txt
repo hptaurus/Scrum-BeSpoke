@@ -121,9 +121,9 @@ Daily Scrum
 3.Saya tidak memiliki kendala dalam pengerjaan.
 
 (Indatop):
-1. 
-2.
-3. 
+1.Semalam saya mencari informasi tentang versi-versi ICQ beserta perbedaannya
+2.Hari ini saya mencari fitur ICQ berupa free video call,free voice call,call any phone numbers,quick login dan double login
+3.Saya tidak memiliki kendala dalam pengerjaan.
 
 30/5
 Daily Scrum
@@ -165,6 +165,6 @@ Daily Scrum
 3.
 
 (Indatop):
-1. 
-2.
-3.  
+1.-
+2.Hari ini saya mencari Chat Story dalam ICQ
+3.Saya tidak memiliki kendala dalam pengerjaan. 
