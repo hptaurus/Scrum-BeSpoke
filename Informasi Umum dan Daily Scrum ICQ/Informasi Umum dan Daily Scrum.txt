@@ -161,7 +161,7 @@ Daily Scrum
 
 (William Chandra):
 1.Semalam saya mencoba menjalankan bespoke
-2.hari ini saya menambahkan fitur email notifications
+2.hari ini saya menambahkan fitur email notifications,share photos and videos,and moods
 3.kendala saya kurangnya pemahaman saya tentang bespoke
 
 (Indatop):
