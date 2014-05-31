@@ -138,9 +138,9 @@ Daily Scrum
 3.
 
 (William Chandra):
-1.
-2.
-3.
+1.Semalam saya mencari fitur ICQ berupa free video call,free voice call,call any phone numbers,quick login
+2.Hari ini saya mencoba menjalankan bespoke 
+3.Kendala saya kurangnya pemahaman saya pada bespoke
 
 (Indatop):
 1. 
@@ -160,9 +160,9 @@ Daily Scrum
 3.
 
 (William Chandra):
-1.
-2.
-3.
+1.Semalam saya mencoba menjalankan bespoke
+2.hari ini saya menambahkan fitur email notifications
+3.kendala saya kurangnya pemahaman saya tentang bespoke
 
 (Indatop):
 1.-
