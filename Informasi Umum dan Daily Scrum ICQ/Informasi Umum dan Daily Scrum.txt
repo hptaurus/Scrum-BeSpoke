@@ -168,3 +168,10 @@ Daily Scrum
 1.-
 2.Hari ini saya mencari Chat Story dalam ICQ
 3.Saya tidak memiliki kendala dalam pengerjaan. 
+
+1/6
+Daily Scrum
+(William Chandra):
+1.Semalam saya menambahkan fitur email notifications,share photos and videos,and moods ke bespoke
+2.Hari ini saya membagi backlog-backlog di trello
+3.saya tidak memiliki kendala dalam pengerjaan
