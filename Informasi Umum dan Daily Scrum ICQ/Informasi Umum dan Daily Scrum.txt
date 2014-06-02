@@ -161,10 +161,29 @@ Daily Scrum
 
 (William Chandra):
 1.Semalam saya mencoba menjalankan bespoke
-2.hari ini saya menambahkan fitur email notifications
+2.hari ini saya menambahkan fitur email notifications,share photos and videos,and moods
 3.kendala saya kurangnya pemahaman saya tentang bespoke
 
 (Indatop):
 1.-
 2.Hari ini saya mencari Chat Story dalam ICQ
 3.Saya tidak memiliki kendala dalam pengerjaan. 
+
+1/6
+Daily Scrum
+(William Chandra):
+1.Semalam saya menambahkan fitur email notifications,share photos and videos,and moods ke bespoke
+2.Hari ini saya membagi backlog-backlog di trello
+3.saya tidak memiliki kendala dalam pengerjaan
+
+2/6
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya menambahkan fitur themes.
+2. Hari ini saya menambahkan fitur Microblog.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Indatop) :
+1. Semalam saya mempelajari fitur-fitur yang terdapat dalam ICQ
+2. hari ini saya mencari social network untuk ICQ dan juga cara install ICQ
+3. saya tidak memiliki kendala dalam pengerjaan.
