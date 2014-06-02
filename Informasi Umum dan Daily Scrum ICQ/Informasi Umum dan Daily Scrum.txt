@@ -178,6 +178,11 @@ Daily Scrum
 
 2/6
 Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya menambahkan fitur themes.
+2. Hari ini saya menambahkan fitur Microblog.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
 (Indatop) :
 1. Semalam saya mempelajari fitur-fitur yang terdapat dalam ICQ
 2. hari ini saya mencari social network untuk ICQ dan juga cara install ICQ
