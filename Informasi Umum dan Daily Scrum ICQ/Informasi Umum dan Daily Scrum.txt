@@ -28,7 +28,7 @@ Scrummaster: Fausta Leonardo (12.111.0502)
 
 Sprint 2:
 29/5 - 31/5
-Scrummaster: Hartono (12.111.0995)
+Scrummaster: Hartono Pratama (12.111.0995)
 
 Sprint 3: 
 02/6 - 04/6
@@ -106,14 +106,14 @@ Daily Scrum
 29/5
 Daily Scrum
 (Fausta Leonardo):
-1.Semalam saya mencari informasi tentang versi ICQ dan perbedaannya.
+1. Semalam saya mencari informasi tentang versi ICQ dan perbedaannya.
 2. Hari ini saya menambahkan fitur Multi-Instance Login.
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono):
-1. 
-2.
-3.
+1. Semalam saya buat tentang Sejarah ICQ
+2. Hari ini saya buat tentang Fitur Free Voice Calls, Free Video Calls, Call Any Phone Number, dan Quick Login
+3. Saya tidak menemukan kendala dalam pencarian hari ini.
 
 (William Chandra):
 1.Semalam saya mencari informasi tentang versi-versi ICQ beserta perbedaannya
@@ -133,9 +133,9 @@ Daily Scrum
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono):
-1. 
-2.
-3.
+1. Semalam saya cari tentang Fitur Free Voice Calls, Free Video Calls, Call Any Phone Number, dan Quick Login
+2. Hari ini saya buat tentang Fitur Free Voice Calls, Free Video Calls, Call Any Phone Number, dan Quick Login dalam BeSpoke
+3. saya mendapatkan kesulitan dalam mengedit file Index.jade
 
 (William Chandra):
 1.Semalam saya mencari fitur ICQ berupa free video call,free voice call,call any phone numbers,quick login
@@ -155,9 +155,9 @@ Daily Scrum
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono):
-1. 
-2.
-3.
+1. Kemarin saya membuat tentang Fitur Free Voice Calls, Free Video Calls, Call Any Phone Number, dan Quick Login dalam BeSpoke
+2. Hari ini saya menggabungkan apa yang di buat oleh anggota menjadi satu folder dalam repo
+3. saya tidak mendapatkan kendala pada hari ini
 
 (William Chandra):
 1.Semalam saya mencoba menjalankan bespoke
