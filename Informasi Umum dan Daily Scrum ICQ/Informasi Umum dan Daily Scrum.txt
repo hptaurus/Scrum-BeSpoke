@@ -183,7 +183,24 @@ Daily Scrum
 2. Hari ini saya menambahkan fitur Microblog.
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
+(Hartono):
+1.
+2.
+3. 
+
+(William Chandra):
+1.
+2.
+3.
+
 (Indatop) :
 1. Semalam saya mempelajari fitur-fitur yang terdapat dalam ICQ
 2. hari ini saya mencari social network untuk ICQ dan juga cara install ICQ
 3. saya tidak memiliki kendala dalam pengerjaan.
+
+3/6
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya menambahkan fitur Microblog.
+2. Hari ini saya menambahkan cara menginstall ICQ pada Linux Ubuntu dan penambahan image didalamnya.
+3. Saya tidak memiliki kendala dalam pengerjaan.
