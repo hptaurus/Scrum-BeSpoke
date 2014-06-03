@@ -1,3 +1,0 @@
-1. Semalam saya cari tentang Fitur Free Voice Calls, Free Video Calls, Call Any Phone Number, dan Quick Login
-2. Hari ini saya buat tentang Fitur Free Voice Calls, Free Video Calls, Call Any Phone Number, dan Quick Login dalam BeSpoke
-3. saya mendapatkan kesulitan dalam mengedit file Index.jade
