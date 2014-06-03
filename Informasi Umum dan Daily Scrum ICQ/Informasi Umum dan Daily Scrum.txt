@@ -184,9 +184,9 @@ Daily Scrum
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono):
-1.
-2.
-3. 
+1. Semalam saya merapikan pekerjaan yang ada di dalam repo
+2. hari ini saya menambah gambar pada sprint 2
+3. saya tidak mendapatkan kendala hari ini
 
 (William Chandra):
 1.
@@ -209,3 +209,8 @@ Daily Scrum
 1. Semalam saya mempelajari social network untuk ICQ dan juga cara install ICQ
 2. hari ini saya mencari install ICQ untuk windows 8 / 7
 3. saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono Pratama):
+1. Semalam saya menambah gambar pada sprint 2
+2. hari ini saya membuat install untuk Iphone
+3. saya mendapatkan kendala pada saat mengontrol besar gambar
