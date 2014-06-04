@@ -215,6 +215,10 @@ Daily Scrum
 
 4/6
 Daily Scrum
+1. Semalam sayamenambahkan cara menginstall ICQ pada Linux Ubuntu dan penambahan image didalamnya.
+2. Hari ini saya menambahkan cara menginstall ICQ pada Windows Mobile.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
 (william Chandra):
 1.Semalam saya mencari informasi tentang penginstallan ICQ di Mac dan blackberry dan mengedit beberapa bagian
 2.Hari ini saya menambahkan cara penginstallan ICQ di Mac dan Mobile(blackberry)
