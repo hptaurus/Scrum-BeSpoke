@@ -169,13 +169,6 @@ Daily Scrum
 2.Hari ini saya mencari Chat Story dalam ICQ
 3.Saya tidak memiliki kendala dalam pengerjaan. 
 
-1/6
-Daily Scrum
-(William Chandra):
-1.Semalam saya menambahkan fitur email notifications,share photos and videos,and moods ke bespoke
-2.Hari ini saya membagi backlog-backlog di trello
-3.saya tidak memiliki kendala dalam pengerjaan
-
 2/6
 Daily Scrum
 (Fausta Leonardo):
@@ -189,9 +182,9 @@ Daily Scrum
 3. saya tidak mendapatkan kendala hari ini
 
 (William Chandra):
-1.
-2.
-3.
+1.Semalam saya mencari informasi tentang Penginstallan ICQ
+2.Hari ini saya menambahkan beberapa list di trello 
+3.saya tidak memiliki kendala
 
 (Indatop) :
 1. Semalam saya mempelajari fitur-fitur yang terdapat dalam ICQ
@@ -214,3 +207,15 @@ Daily Scrum
 1. Semalam saya menambah gambar pada sprint 2
 2. hari ini saya membuat install untuk Iphone
 3. saya mendapatkan kendala pada saat mengontrol besar gambar
+
+(william chandra):
+1.Semalam saya menambahkan beberapa list di trello
+2.hari ini saya mencari informasi tentang penginstallan ICQ di Mac dan blackberry dan mengedit beberapa bagian
+3.Kendala saya ada pada koneksi internet yang tidak stabil
+
+4/6
+Daily Scrum
+(william Chandra):
+1.Semalam saya mencari informasi tentang penginstallan ICQ di Mac dan blackberry dan mengedit beberapa bagian
+2.Hari ini saya menambahkan cara penginstallan ICQ di Mac dan Mobile(blackberry)
+3.saya tidak ada kendala dalam pengerjaan
