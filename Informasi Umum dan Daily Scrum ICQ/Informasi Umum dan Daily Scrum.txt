@@ -223,3 +223,8 @@ Daily Scrum
 1.Semalam saya mencari informasi tentang penginstallan ICQ di Mac dan blackberry dan mengedit beberapa bagian
 2.Hari ini saya menambahkan cara penginstallan ICQ di Mac dan Mobile(blackberry)
 3.saya tidak ada kendala dalam pengerjaan
+
+(Indatop) :
+1. Semalam saya mempelajari install ICQ untuk windows 8 / 7
+2. hari ini saya mencari install ICQ untuk java
+3. saya tidak memiliki kendala dalam pengerjaan.
