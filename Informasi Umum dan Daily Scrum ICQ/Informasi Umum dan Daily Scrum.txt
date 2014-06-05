@@ -239,7 +239,7 @@ Daily Scrum
 Daily Scrum
 (Fausta Leonardo):
 1. Semalam saya menambahkan cara menginstall ICQ pada Windows Mobile.
-2. Hari ini saya 
+2. Hari ini saya menambahkan cara menginstall ICQ pada Android.
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono Pratama):
