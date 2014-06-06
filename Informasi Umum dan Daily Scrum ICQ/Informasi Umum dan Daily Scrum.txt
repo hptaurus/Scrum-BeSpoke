@@ -264,3 +264,7 @@ Daily Scrum
 2. Hari ini saya menambahkan cara Add Contacts pada ICQ.
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
+(william Chandra):
+1.Semalam saya menambahkan cara install ICQ di bada mobile
+2.hari ini saya mengedit bagian cara install ICQ di mobile
+3.saya tidak ada kendala dalam pengerjaan
