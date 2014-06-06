@@ -221,9 +221,9 @@ Daily Scrum
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono Pratama):
-1.
-2. 
-3. 
+1. Semalam saya membuat install untuk iphone
+2. hari ini saya membuat install untuk symbian dan windows phone 7
+3. saya tidak dapat kendala dalam pengerjaan
 
 (William Chandra):
 1.Semalam saya mencari informasi tentang penginstallan ICQ di Mac dan blackberry dan mengedit beberapa bagian
@@ -243,9 +243,9 @@ Daily Scrum
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
 (Hartono Pratama):
-1. 
-2. 
-3. 
+1. semalam saya buat install untuk iphone
+2. hari ini saya memeriksa apakah ada yang salah dengan apa yang saya buat selama ini
+3. saya tidak memiliki masalah dalam pengerjaan
 
 (William Chandra):
 1.semalam saya menambahkan cara penginstallan ICQ di Mac dan Mobile(blackberry)
@@ -273,3 +273,30 @@ Daily Scrum
 1. Semalam saya menambahkan cara register ICQ
 2. hari ini saya mencari Cara Send Message
 3. saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono Pratama):
+1. kemarin saya memeriksa pekerjaan saya selama ini 
+2. hari ini saya membuat Chat dengan teman Facebook
+3. saya memiliki kendala dalam melakukan push(internet tidak jalan)
+
+7/6
+Daily Scrum
+(Fausta Leonardo):
+1. 
+2. 
+3. 
+
+(william Chandra):
+1.
+2.
+3.
+
+(Indatop) :
+1. 
+2. 
+3. 
+
+(Hartono Pratama):
+1. semalam saya membuat Chat dengan teman facebook
+2. hari ini saya membuat Log-In ICQ
+3. saya tidak mendapatkan kendala dalam melakukan pengerjaan
