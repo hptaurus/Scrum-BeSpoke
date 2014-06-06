@@ -143,9 +143,9 @@ Daily Scrum
 3.Kendala saya kurangnya pemahaman saya pada bespoke
 
 (Indatop):
-1. 
-2.
-3.
+1. -
+2. -
+3. -
 
 31/5
 Daily Scrum
@@ -215,11 +215,17 @@ Daily Scrum
 
 4/6
 Daily Scrum
-1. Semalam sayamenambahkan cara menginstall ICQ pada Linux Ubuntu dan penambahan image didalamnya.
+(Fausta Leonardo):
+1. Semalam saya menambahkan cara menginstall ICQ pada Linux Ubuntu dan penambahan image didalamnya.
 2. Hari ini saya menambahkan cara menginstall ICQ pada Windows Mobile.
 3. Saya tidak memiliki kendala dalam pengerjaan.
 
-(william Chandra):
+(Hartono Pratama):
+1.
+2. 
+3. 
+
+(William Chandra):
 1.Semalam saya mencari informasi tentang penginstallan ICQ di Mac dan blackberry dan mengedit beberapa bagian
 2.Hari ini saya menambahkan cara penginstallan ICQ di Mac dan Mobile(blackberry)
 3.saya tidak ada kendala dalam pengerjaan
@@ -227,4 +233,43 @@ Daily Scrum
 (Indatop) :
 1. Semalam saya mempelajari install ICQ untuk windows 8 / 7
 2. hari ini saya mencari install ICQ untuk java
+3. saya tidak memiliki kendala dalam pengerjaan.
+
+5/6
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya menambahkan cara menginstall ICQ pada Windows Mobile.
+2. Hari ini saya menambahkan cara menginstall ICQ pada Android.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(Hartono Pratama):
+1. 
+2. 
+3. 
+
+(William Chandra):
+1.semalam saya menambahkan cara penginstallan ICQ di Mac dan Mobile(blackberry)
+2.hari ini saya menambahkan cara install ICQ di bada mobile
+3.saya tidak ada kendala dalam pengerjaan
+
+(Indatop) :
+1. Semalam saya menambahkan install ICQ untuk java
+2. hari ini saya mencari cara register ICQ
+3. saya tidak memiliki kendala dalam pengerjaan.
+
+6/6
+Daily Scrum
+(Fausta Leonardo):
+1. Semalam saya menambahkan cara menginstall ICQ pada Android.
+2. Hari ini saya menambahkan cara Add Contacts pada ICQ.
+3. Saya tidak memiliki kendala dalam pengerjaan.
+
+(william Chandra):
+1.Semalam saya menambahkan cara install ICQ di bada mobile
+2.hari ini saya mengedit bagian cara install ICQ di mobile
+3.saya tidak ada kendala dalam pengerjaan
+
+(Indatop) :
+1. Semalam saya menambahkan cara register ICQ
+2. hari ini saya mencari Cara Send Message
 3. saya tidak memiliki kendala dalam pengerjaan.
