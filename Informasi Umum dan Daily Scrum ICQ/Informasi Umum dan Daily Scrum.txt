@@ -282,9 +282,9 @@ Daily Scrum
 7/6
 Daily Scrum
 (Fausta Leonardo):
-1. 
-2. 
-3. 
+1. Semalam saya menambahkan cara Add Contact pada ICQ.
+2. Hari ini saya menambahkan cara Ignore Contact pada ICQ.
+3. Saya tidak memiliki kendala dalam pengerjaan. 
 
 (william Chandra):
 1.
